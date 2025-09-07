@@ -21,7 +21,7 @@ function App() {
       <p className="mt-5">Root API says: {message}</p>
       <p className="mt-5">About API says: {about}</p>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
